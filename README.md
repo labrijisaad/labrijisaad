@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/labrijisaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labrijisaad" height="30" width="40" /></a>
 <a href="https://kaggle.com/saadlabriji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saadlabriji" height="30" width="40" /></a>
 <a href="https://fb.com/saad.labriji.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saad.labriji.0" height="30" width="40" /></a>
-<a href="https://instagram.com/l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l" height="30" width="40" /></a>
+<a href="https://instagram.com/saad.labri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad.labri" height="30" width="40" /></a>
 <a href="https://discord.gg/labrijisaad#2166" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="labrijisaad#2166" height="30" width="40" /></a>
 </p>
 
