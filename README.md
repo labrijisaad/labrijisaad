@@ -1,4 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74627083/155903528-100c07d0-ee13-4ba7-9e98-3584c4ac555b.jpg" />
+</p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LABRIJI SAAD</h1>
 <h3 align="center">A passionate Data Scientist, Data Analyst student!</h3>
