@@ -6,7 +6,7 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labrijisaad/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labrijisaad" alt="labrijisaad" /></a></p>
+
 
 ## 😎 About me:
 
