@@ -10,7 +10,7 @@
 
 ## 😎 About me:
 
-- 🔭 I’m currently working on **twitter sentiment analysis using nlp**
+- 🔭 I’m currently working on **twitter sentiment analysis using NLP**
 
 - 🌱 I’m currently learning **Deep Learning, Machine learning & NLP**
 
@@ -96,22 +96,6 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
-
-## 📊 My Github Stats:
-
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-    <img alt="Labriji's Github Stats"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=labrijisaad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-    <img alt="Labriji saad's Top Languages"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=labrijisaad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</a>
-
-
-
 
 ## 📊 My Github Stats:
 
