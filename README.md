@@ -22,7 +22,8 @@
 
 - ⚡ Fun fact **I like anime, gaming & japanese culture 🐉**
 
-<h3 align="left">Connect with me:</h3>
+## 🙌 Connect with me:
+
 <p align="left">
 <a href="https://linkedin.com/in/labrijisaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labrijisaad" height="30" width="40" /></a>
 <a href="https://kaggle.com/saadlabriji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saadlabriji" height="30" width="40" /></a>
