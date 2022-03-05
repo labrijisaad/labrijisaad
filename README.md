@@ -101,31 +101,19 @@
 
 <br/>
 
-<p><img align="left"
-        alt="labrijisaad"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=labrijisaad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p>&nbsp;<img align="center"
-              alt="labrijisaad"
-              src="https://github-readme-stats.vercel.app/api?username=labrijisaad&show_icons=true&locale=en"/>
-</p>
-
-
---
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
     <img alt="Labriji's Github Stats"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=labrijisaad&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
-    <img alt="Subham Raoniar's Top Languages"
+    <img alt="Labriji saad's Top Languages"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=labrijisaad&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </a>
---
 
 
 
-## 📊 My Github Stats:
+
+## 📊 My Github -- Stats:
 
 <br/>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
