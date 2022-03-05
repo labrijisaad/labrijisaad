@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=labrijisaad" alt="labrijisaad" /></a></p>
 
+## 😎 About me:
+
 - 🔭 I’m currently working on **twitter sentiment analysis using nlp**
 
 - 🌱 I’m currently learning **Deep Learning, Machine learning & NLP**
