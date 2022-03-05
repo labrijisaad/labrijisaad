@@ -2,9 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LABRIJI SAAD</h1>
 <h3 align="center">A passionate Data Scientist, Data Analyst student!</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=labrijisaad&label=Profile%20views&color=0e75b6&style=flat" alt="labrijisaad" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=labrijisaad&label=Profile%20views&color=0e75b6&style=flat" alt="labrijisaad" /> </p>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labrijisaad/)
 
 
 
