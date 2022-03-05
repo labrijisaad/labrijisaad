@@ -101,11 +101,13 @@
 
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=labrijisaad&show_icons=true&locale=en&layout=compact" alt="labrijisaad" /></p>
+<p><img align="left"
+        alt="labrijisaad"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=labrijisaadshow_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=labrijisaad&show_icons=true&locale=en" alt="labrijisaad" /></p>
-
-
+<p>&nbsp;<img align="center"
+              alt="labrijisaad"
+              src="https://github-readme-stats.vercel.app/api?username=labrijisaad&show_icons=true&locale=en"/></p>
 
 
 ## 📊 My Github Stats
