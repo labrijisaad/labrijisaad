@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74627083/155903528-100c07d0-ee13-4ba7-9e98-3584c4ac555b.jpg" />
 </p>
@@ -11,7 +10,7 @@
 
 
 
-## 😎 About me:
+## 😎 `About me`:
 
 - 🔭 I’m currently working on **twitter sentiment analysis using NLP**
 
@@ -25,7 +24,7 @@
 
 - ⚡ Fun fact **I like anime, gaming & japanese culture 🐉**
 
-## 🙌 Connect with me:
+## 🙌 `Connect with me`:
 
 <p align="center">
     <a href="https://linkedin.com/in/labrijisaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="labrijisaad" height="30" width="40" /></a>
@@ -34,7 +33,7 @@
     <a href="https://instagram.com/saad.labri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad.labri" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Languages and Tools:
+## 🛠️ `Languages and Tools`:
 
 <p align="center"> 
     <a href="https://angular.io" target="_blank" rel="noreferrer"> 
@@ -100,7 +99,7 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-## 📊 My Github Stats:
+## 📊 `My Github Stats`:
 
 <br/>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats">
