@@ -98,12 +98,12 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
     </a>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    
  
 </p>
-<br>
-
-<br>
+<p>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Labriji saad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=labrijisaad&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
