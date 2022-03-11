@@ -5,10 +5,16 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
     I'm LABRIJI SAAD</h1>
-<h3 align="center">A passionate Data Scientist, Data Analyst student!</h3>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Data+Analysis+Student;Deep+Learning,+Machine+learning+and+NLP&center=true&width=500&height=50"></a>
+</p>
+
+
 <p align="center"><img
         alt="labrijisaad"
-        src="https://komarev.com/ghpvc/?username=labrijisaad&label=Profile%20views&color=0e75b6&style=flat"/></p>
+        src="https://komarev.com/ghpvc/?username=labrijisaad&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 
 ## 😎 `About me` :
