@@ -2,20 +2,12 @@
     <img src="https://user-images.githubusercontent.com/74627083/155903528-100c07d0-ee13-4ba7-9e98-3584c4ac555b.jpg"/>
 </p>
 
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,
     I'm LABRIJI SAAD</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student+📊;Data+Analysis+Student+📈;Deep+Learning+📙;Machine+learning+🎰;Natural+Language+Processing+🚧;🐉&center=true&width=500&height=50"></a>
 </p>
-
-
-<p align="center"><img
-        alt="labrijisaad"
-        src="https://komarev.com/ghpvc/?username=labrijisaad&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
 
 ## 😎 `About me` :
 
@@ -140,7 +132,6 @@
              width="40"/>
     </a>
 
-
 </p>
 <p align="center">
     <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
@@ -148,7 +139,6 @@
              title="🔥 Get streak stats for your profile at git.io/streak-stats"/>
     </a>
 </p>
-
 
 ## 📊 `My Github Stats` :
 
@@ -174,7 +164,6 @@
 
 <br/>
 <br/>
-
 <p align="center">
 <img alt="github contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 </p>
