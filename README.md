@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **labrijisaad@gmail.com**
 
-- 📄 Here is my resume -> **working on** 👊<-
+- 📄 Here is my resume -> [Resume 🔥](https://labrijisaad.github.io/resume/index.html)
 
 - ⚡ Fun fact **I like anime, gaming & japanese culture 🐉**
 
