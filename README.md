@@ -15,11 +15,11 @@
 
 - 🌱 I’m currently learning **Deep Learning, Machine learning & NLP**
 
-- 👨‍💻 All of my projects are available at -> **working on** 👊<-
+- 👨‍💻 All of my projects are available at → *working on* 👊
 
-- 📫 How to reach me **labrijisaad@gmail.com**
+- 📫 How to reach me → **labrijisaad@gmail.com**
 
-- 📄 Here is my resume -> [Resume 🔥](https://labrijisaad.works/)
+- 📄 Here is my resume → [Responsive Resume 🔥](https://labrijisaad.works/)
 
 - ⚡ Fun fact **I like anime, gaming & japanese culture 🐉**
 
