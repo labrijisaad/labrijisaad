@@ -10,17 +10,13 @@
 
 ## 😎 `About me` :
 
-- 🔭 I’m currently working on **twitter sentiment analysis using NLP**
+- 🔭 I’m currently looking for **End-Of-Study Project Internship in Data Science / Data Engineering** 😁
 
-- 🌱 I’m currently learning **Deep Learning, Machine learning & NLP**
+- 🌱 I’m currently learning **Data Engineering & Cloud Computing** 👊
 
-- 👨‍💻 All of my projects are available at → *working on* 👊
-
-- 📫 How to reach me → **labrijisaad@gmail.com**
+- 📫 Reach me → **labrijisaad@gmail.com**
 
 - 📄 Here is my resume → **[ Resume 🔥](https://labrijisaad.works/)**
-
-- ⚡ Fun fact **I like anime, gaming & japanese culture 🐉**
 
 ## 🙌 `Connect with me` :
 
