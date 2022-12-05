@@ -18,6 +18,12 @@
 
 - 📄 Here is my resume → **[ Resume 🔥](https://labrijisaad.works/)**
 
+## 🎓 `Certfications` :
+- 💎 [Microsoft Certified: Azure Fundamentals: AZ-900](https://www.credly.com/badges/b4f46e07-0661-4617-b27b-e2d9c762da17/linked_in_profile)
+- 💎 [Microsoft Certified: DATA Fundamentals: DP-900](https://www.credly.com/badges/bbab8cc4-f184-4920-91f1-27eacef6f6cc/linked_in_profile)
+- 💎 [Microsoft Certified: AI Fundamentals: AI-900](https://www.credly.com/badges/445d6437-d174-43e1-85c1-5078c05e73ca/linked_in?t=rm87j2)
+- 💎 [IBM Certified: Data Warehouse Engineer](https://www.coursera.org/account/accomplishments/specialization/certificate/KB2W4BV5RBUD)
+
 ## 🙌 `Connect with me` :
 
 <p align="center">
