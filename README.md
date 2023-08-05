@@ -43,7 +43,3 @@
     <img align="center" alt="Instagram" height="30" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
 </p>
-
-<p align="center">
-  <img alt="GitHub contribution snake animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
-</p>
