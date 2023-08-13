@@ -23,7 +23,7 @@
 - 💎 [IBM Certified: Data Warehouse Engineer](https://www.coursera.org/account/accomplishments/specialization/certificate/KB2W4BV5RBUD)
 
 ## 💼 Work Experience:
-- **Data Engineer / Data Scientist** Intern at `Chefclub` in Paris, France: 6 months
+- **Data Engineer / Data Scientist** Intern at `Chefclub` in Paris, France (6 months) [📢 More details here](https://github.com/labrijisaad/Chefclub-Data-Internship)
 - **Data Engineer Intern** at `Capgemini Engineering` in Casablanca, Morocco: 2 months
 - **Data Scientist Intern** at `AIOX Labs` in Rabat, Morocco: 2 months
 - **Web/Backend Developer Intern** at `DXC Technologies` in Rabat, Morocco: 2 months
