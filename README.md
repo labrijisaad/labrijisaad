@@ -11,6 +11,7 @@
 
 ## 😄 About me:
 - 🌱 I'm from 🇲🇦 and I'm 23 years old! 😄
+- 💼 I'm a Machine Learning Engineering Apprentice at AXA - Direct Assurance
 - 🎓 I hold a [Data Engineering degree](https://www.inpt.ac.ma/fr/data-engineer) from INPT 
 
 ## 🏅 Certifications:  ( 5x Azure Certified )
@@ -23,6 +24,7 @@
 - 💎 [IBM Certified: Data Warehouse Engineer](https://www.coursera.org/account/accomplishments/specialization/certificate/KB2W4BV5RBUD)
 
 ## 💼 Work Experience:
+- **Machine Learning Engineer / Data Scientist** Apprenticeship Direct at `AXA - Direct Assurance` in Suresnes, France (Ongoing)
 - **Data Engineer / Data Scientist** Intern at `Chefclub` in Paris, France (6 months) [📢 More details here](https://github.com/labrijisaad/Chefclub-Data-Internship)
 - **Data Engineer Intern** at `Capgemini Engineering` in Casablanca, Morocco: 2 months
 - **Data Scientist Intern** at `AIOX Labs` in Rabat, Morocco: 2 months
