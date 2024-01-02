@@ -14,17 +14,20 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=labrijisaad&show_icons=true&theme=radical" alt="Saad's GitHub Stats">
+</p>
+
 - 🌱 Hello, I'm **Saad**, a 23-year-old from 🇲🇦 with a deep passion for AI technologies and data-driven solutions.
 - 💼 Currently working as a Machine Learning Engineering Apprentice at AXA - Direct Assurance.
 - 🎓 I hold a [Data Engineering]((https://www.inpt.ac.ma/fr/data-engineer)) degree from INPT.
 
 ## 🏅 Certifications: (5x Azure Certified)
-
-- 💎 [Microsoft Certified: Azure Data Scientist Associate: DP-100](https://www.credly.com/badges/75268dc8-b506-4b30-90ea-ad36da087d8d/linked_in_profile)
-- 💎 [Microsoft Certified: Azure Data Engineer Associate: DP-203](https://www.credly.com/badges/4dd17bd5-8ba3-45d0-b305-9f1cb6bba729/linked_in?t=rolnih)
-- 💎 [Microsoft Certified: Azure Fundamentals: AZ-900](https://www.credly.com/badges/b4f46e07-0661-4617-b27b-e2d9c762da17/linked_in_profile)
-- 💎 [Microsoft Certified: Azure Data Fundamentals: DP-900](https://www.credly.com/badges/bbab8cc4-f184-4920-91f1-27eacef6f6cc/linked_in_profile)
-- 💎 [Microsoft Certified: Azure AI Fundamentals: AI-900](https://www.credly.com/badges/445d6437-d174-43e1-85c1-5078c05e73ca/linked_in?t=rm87j2)
+- [![Azure Data Scientist](https://img.shields.io/badge/Azure-Data_Scientist_Associate-blue)](https://www.credly.com/badges/75268dc8-b506-4b30-90ea-ad36da087d8d)
+- [![Azure Data Engineer](https://img.shields.io/badge/Azure-Data_Engineer_Associate-blue)](https://www.credly.com/badges/4dd17bd5-8ba3-45d0-b305-9f1cb6bba729)
+- [![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-blue)](https://www.credly.com/badges/b4f46e07-0661-4617-b27b-e2d9c762da17)
+- [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data_Fundamentals-blue)](https://www.credly.com/badges/bbab8cc4-f184-4920-91f1-27eacef6f6cc)
+- [![Azure AI Fundamentals](https://img.shields.io/badge/Azure-AI_Fundamentals-blue)](https://www.credly.com/badges/445d6437-d174-43e1-85c1-5078c05e73ca)
 
 ## 💼 Work Experience:
 - **Machine Learning Engineer / Data Scientist** Apprenticeship at `AXA - Direct Assurance`, Suresnes, France (Ongoing)
@@ -43,5 +46,9 @@
   </a>
 </p>
 
+<p align="center">
+  Feel free to reach out for collaborations or discussions in AI and data science!
+</p>
+
 ## 🔄 Last Updated:
-- This README was last updated on **02/01/2024**. I regularly update this to reflect my current work and interests.
+- README last updated on **02/01/2024**. Regularly updated to reflect current work and interests.
