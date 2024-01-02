@@ -14,10 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=labrijisaad&show_icons=true&theme=radical" alt="Saad's GitHub Stats">
-</p>
-
 - 🌱 Hello, I'm **Saad**, a 23-year-old from 🇲🇦 with a deep passion for AI technologies and data-driven solutions.
 - 💼 Currently working as a Machine Learning Engineering Apprentice at AXA - Direct Assurance.
 - 🎓 I hold a [Data Engineering]((https://www.inpt.ac.ma/fr/data-engineer)) degree from INPT.
