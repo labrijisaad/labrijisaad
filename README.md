@@ -19,14 +19,17 @@
 - 🎓 I hold a [Data Engineering]((https://www.inpt.ac.ma/fr/data-engineer)) degree from INPT.
 
 ## 🏅 Certifications: (5x Azure Certified)
-- [![Azure Data Scientist](https://img.shields.io/badge/Azure-Data_Scientist_Associate-blue)](https://www.credly.com/badges/75268dc8-b506-4b30-90ea-ad36da087d8d)
-- [![Azure Data Engineer](https://img.shields.io/badge/Azure-Data_Engineer_Associate-blue)](https://www.credly.com/badges/4dd17bd5-8ba3-45d0-b305-9f1cb6bba729)
+- [![Azure Data Scientist](https://img.shields.io/badge/Azure-Data_Scientist_Associate-blue)](https://learn.microsoft.com/en-us/users/saadlabriji-3768/credentials/f53b87af4329249d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [![Azure Data Engineer](https://img.shields.io/badge/Azure-Data_Engineer_Associate-blue)](https://learn.microsoft.com/en-us/users/saadlabriji-3768/credentials/e3174c25e4cb921d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-blue)](https://www.credly.com/badges/b4f46e07-0661-4617-b27b-e2d9c762da17)
 - [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data_Fundamentals-blue)](https://www.credly.com/badges/bbab8cc4-f184-4920-91f1-27eacef6f6cc)
 - [![Azure AI Fundamentals](https://img.shields.io/badge/Azure-AI_Fundamentals-blue)](https://www.credly.com/badges/445d6437-d174-43e1-85c1-5078c05e73ca)
 
+## 📚 Contributions:
+Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based on insights from an [arXiv paper](https://arxiv.org/abs/2110.01274), with implementation available in the [GitHub repository](https://github.com/labrijisaad/Git-Clustering) 📂 and distribution through the [TestPyPI Package](https://test.pypi.org/project/git_cluster/) 📦.
+
 ## 💼 Work Experience:
-- **Machine Learning Engineer / Data Scientist** Apprenticeship at `AXA - Direct Assurance`, Suresnes, France (Ongoing)
+- **Machine Learning Engineer / Data Scientist** Apprenticeship at `AXA - Direct Assurance`, Paris, France (Ongoing) [More details](https://github.com/labrijisaad/AXA-Direct-ML-Apprenticeship)
 - **Data Engineer / Data Scientist** Internship at `Chefclub`, Paris, France (6 months) [More details](https://github.com/labrijisaad/Chefclub-Data-Internship)
 - **Data Engineer Intern** at `Capgemini Engineering`, Casablanca, Morocco (2 months)
 - **Data Scientist Intern** at `AIOX Labs`, Rabat, Morocco (2 months)
@@ -47,4 +50,4 @@
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **02/01/2024**. Regularly updated to reflect current work and interests.
+- README last updated on **06/03/2024**. Regularly updated to reflect current work and interests.
