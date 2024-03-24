@@ -16,7 +16,8 @@
 
 - 🌱 Hello, I'm **Saad**, a 23-year-old from 🇲🇦 with a deep passion for AI technologies and data-driven solutions.
 - 💼 Currently working as a Machine Learning Engineering Apprentice at AXA - Direct Assurance.
-- 🎓 I hold a [Data Engineering]((https://www.inpt.ac.ma/fr/data-engineer)) degree from INPT.
+- 🎓 I hold a **[Data Engineering degree](https://www.inpt.ac.ma/fr/data-engineer)** from INPT.
+- 📚 I'm also preparing for a Master's degree in **[Machine Learning and Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-mlsd/)** at Paris Cité University.
 
 ## 🏅 Certifications: (5x Azure Certified)
 - [![Azure Data Scientist](https://img.shields.io/badge/Azure-Data_Scientist_Associate-blue)](https://learn.microsoft.com/en-us/users/saadlabriji-3768/credentials/f53b87af4329249d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
@@ -35,6 +36,12 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 - **Data Scientist Intern** at `AIOX Labs`, Rabat, Morocco (2 months)
 - **Web/Backend Developer Intern** at `DXC Technologies`, Rabat, Morocco (2 months)
 
+## 🌟 Top Repositories
+
+### Energy Forecast API ⚡
+- **Repository:** [Energy Forecast API](https://github.com/labrijisaad/Energy-Forecast-API)
+> Description: This repository 📦 houses an Energy Forecasting API 🌟 that uses Machine Learning to predict daily 📅 and monthly 🗓 energy consumption from historical data 📊. It's designed as a practical demonstration of a ML Engeineering/Data Science workflow, from initial analysis to a deployable API packaged with Docker 🐳.
+
 ## 🙌 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/labrijisaad" target="_blank">
@@ -50,4 +57,4 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **06/03/2024**. Regularly updated to reflect current work and interests.
+- README last updated on **24/03/2024**. Regularly updated to reflect current work and interests.
