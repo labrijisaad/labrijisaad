@@ -38,9 +38,13 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 
 ## 🌟 Top Repositories
 
-### Energy Forecast API ⚡
+### 1. Energy Forecast API ⚡
 - **Repository:** [Energy Forecast API](https://github.com/labrijisaad/Energy-Forecast-API)
 > Description: This repository 📦 houses an Energy Forecasting API 🌟 that uses Machine Learning to predict daily 📅 and monthly 🗓 energy consumption from historical data 📊. It's designed as a practical demonstration of a ML Engeineering/Data Science workflow, from initial analysis to a deployable API packaged with Docker 🐳.
+
+### 2. GIT Clustering Algorithm 🧩
+- **Repository:** [GIT Clustering](https://github.com/labrijisaad/Git-Clustering)
+> Description: An upgraded version of the GIT Clustering algorithm 🔄, informed by insights from an [arXiv paper](https://arxiv.org/abs/2110.01274) 📄, with easy deployment via [TestPyPI](https://test.pypi.org/project/git_cluster/) 📦. Includes benchmarking notebooks 📊 comparing it to state-of-the-art clustering algorithms 🔍.
 
 ## 🙌 Connect with Me:
 <p align="center">
@@ -57,4 +61,4 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **24/03/2024**. Regularly updated to reflect current work and interests.
+- README last updated on **25/03/2024**. Regularly updated to reflect current work and interests.
