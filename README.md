@@ -14,9 +14,9 @@
   </a>
 </p>
 
-- 🌱 Hello, I'm **Saad**, a 23-year-old from 🇲🇦 with a deep passion for AI technologies and data-driven solutions.
-- 💼 Currently working as a Machine Learning Engineering Apprentice at AXA - Direct Assurance.
+- 🌱 Hello, I'm **Saad**, a 23-year-old with a deep passion for AI technologies and data-driven solutions.
 - 🎓 I hold a **[Data Engineering degree](https://www.inpt.ac.ma/fr/data-engineer)** from INPT.
+- 💼 Currently working as a Machine Learning Engineering Apprentice at AXA - Direct Assurance.
 - 📚 I'm also preparing for a Master's degree in **[Machine Learning and Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-mlsd/)** at Paris Cité University.
 
 ## 🏅 Certifications: (5x Azure Certified)
@@ -38,11 +38,11 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 
 ## 🌟 Top Repositories
 
-### 1. Energy Forecast API ⚡
-- **Repository:** [Energy Forecast API](https://github.com/labrijisaad/Energy-Forecast-API)
-> Description: This repository 📦 houses an Energy Forecasting API 🌟 that uses Machine Learning to predict daily 📅 and monthly 🗓 energy consumption from historical data 📊. It's designed as a practical demonstration of a ML Engeineering/Data Science workflow, from initial analysis to a deployable API packaged with Docker 🐳.
+### 1. Monthly & Daily Energy Forecasting Docker API ⚡
+- **Repository:** [Monthly & Daily Energy Forecasting Docker API](https://github.com/labrijisaad/Monthly-Daily-Energy-Forecasting-Docker-API)
+> Description: This repository 📦 houses an Energy Forecasting API ⚡ that uses Machine Learning to predict daily 📅 and monthly 🗓 energy consumption from historical data 📊. It's designed as a practical demonstration of a ML Engeineering/Data Science workflow, from initial analysis to a deployable API packaged with Docker 🐳.
 
-### 2. GIT Clustering Algorithm 🧩
+### 2. Repackaged GIT Clustering Algorithm 🧩
 - **Repository:** [GIT Clustering](https://github.com/labrijisaad/Git-Clustering)
 > Description: An upgraded version of the GIT Clustering algorithm 🔄, informed by insights from an [arXiv paper](https://arxiv.org/abs/2110.01274) 📄, with easy deployment via [TestPyPI](https://test.pypi.org/project/git_cluster/) 📦. Includes benchmarking notebooks 📊 comparing it to state-of-the-art clustering algorithms 🔍.
 
@@ -57,8 +57,8 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 </p>
 
 <p align="center">
-  Feel free to reach out for collaborations or discussions in AI and data science!
+  Feel free to reach out for collaborations or discussions in Data & Artificial Intelligence!
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **25/03/2024**. Regularly updated to reflect current work and interests.
+- README last updated on **27/03/2024**. Regularly updated to reflect current work and interests.
