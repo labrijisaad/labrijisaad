@@ -46,6 +46,10 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 - **Repository:** [GIT Clustering](https://github.com/labrijisaad/Git-Clustering)
 > Description: An upgraded version of the GIT Clustering algorithm 🔄, informed by insights from an [arXiv paper](https://arxiv.org/abs/2110.01274) 📄, with easy deployment via [TestPyPI](https://test.pypi.org/project/git_cluster/) 📦. Includes benchmarking notebooks 📊 comparing it to state-of-the-art clustering algorithms 🔍.
 
+### 3. Kedro Energy Forecasting Machine Learning Pipeline 🏯
+- **Repository:** [Kedro Energy Forecasting Machine Learning Pipeline](https://github.com/labrijisaad/Kedro-Energy-Forecasting-Machine-Learning-Pipeline/tree/main)
+> Description: A showcase of MLOps best practices using **Kedro** 🛠️, this repository shows the journey of **Machine Learning Models** from **development** to **deployment** 🚀. Featuring straightforward training, evaluation, and deployment of models such as **XGBoost Regressor** and **Random Forest Regeressor** 🌳, it integrates built-in visualization 📊 and logging 📝 for effective monitoring. Dive into the world of modular and scalable data pipelines with Kedro 📚 [Kedro Documentation](https://docs.kedro.org/).
+
 ## 🙌 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/labrijisaad" target="_blank">
@@ -61,4 +65,4 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **27/03/2024**. Regularly updated to reflect current work and interests.
+- README last updated on **30/03/2024**. Regularly updated to reflect current work and interests.
