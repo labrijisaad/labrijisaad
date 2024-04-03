@@ -38,11 +38,11 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 
 ## 🌟 Top Repositories
 
-### 1. Monthly & Daily Energy Forecasting Docker API ⚡
-- **Repository:** [Monthly & Daily Energy Forecasting Docker API](https://github.com/labrijisaad/Monthly-Daily-Energy-Forecasting-Docker-API)
-> Description: This repository 📦 houses an Energy Forecasting API ⚡ that uses Machine Learning to predict daily 📅 and monthly 🗓 energy consumption from historical data 📊. It's designed as a practical demonstration of a ML Engeineering/Data Science workflow, from initial analysis to a deployable API packaged with Docker 🐳.
+### 1. Kedro Energy Forecasting Machine Learning Pipeline 🏯
+- **Repository:** [Kedro Energy Forecasting Machine Learning Pipeline](https://github.com/labrijisaad/Kedro-Energy-Forecasting-Machine-Learning-Pipeline/tree/main)
+> Description: A showcase of MLOps best practices using **Kedro** 🛠️, this repository shows the journey of **Machine Learning Models** from **development** to **deployment** 🚀, utilizing Docker 🐳. Featuring straightforward training, evaluation, and deployment of models such as **XGBoost Regressor**, **LightGBM** 💡 and **Random Forest Regeressor** 🌳, it integrates built-in visualization 📊 and logging 📝 for effective monitoring. Dive into the world of modular and scalable data pipelines with Kedro 📚 [Kedro Documentation](https://docs.kedro.org/).
 
-> - **Technologies/Tools:** MLOps, Docker, API design, Machine Learning (XGBoost, Random Forest), Jupyter Notebook, Makefile, venv, Python.
+> - **Technologies/Tools:** Docker, Kedro, MLOps, Machine Learning (XGBoost, Random Forest, LightGBM), Jupyter Notebook, Makefile, venv, Python.
 
 ### 2. Repackaged GIT Clustering Algorithm 🧩
 - **Repository:** [GIT Clustering](https://github.com/labrijisaad/Git-Clustering)
@@ -50,11 +50,11 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 
 > - **Technologies/Tools:** Benchmarking, Poetry Packaging, PyPI Distributing, Machine Learning (K-means, DBSCAN, AgglomerativeClustering, Gaussian Mixture..), Jupyter Notebook, Makefile, venv, Python.
 
-### 3. Kedro Energy Forecasting Machine Learning Pipeline 🏯
-- **Repository:** [Kedro Energy Forecasting Machine Learning Pipeline](https://github.com/labrijisaad/Kedro-Energy-Forecasting-Machine-Learning-Pipeline/tree/main)
-> Description: A showcase of MLOps best practices using **Kedro** 🛠️, this repository shows the journey of **Machine Learning Models** from **development** to **deployment** 🚀. Featuring straightforward training, evaluation, and deployment of models such as **XGBoost Regressor** and **Random Forest Regeressor** 🌳, it integrates built-in visualization 📊 and logging 📝 for effective monitoring. Dive into the world of modular and scalable data pipelines with Kedro 📚 [Kedro Documentation](https://docs.kedro.org/).
+### 3. Monthly & Daily Energy Forecasting Docker API ⚡
+- **Repository:** [Monthly & Daily Energy Forecasting Docker API](https://github.com/labrijisaad/Monthly-Daily-Energy-Forecasting-Docker-API)
+> Description: This repository 📦 houses an Energy Forecasting API ⚡ that uses Machine Learning to predict daily 📅 and monthly 🗓 energy consumption from historical data 📊. It's designed as a practical demonstration of a ML Engeineering/Data Science workflow, from initial analysis to a deployable API packaged with Docker 🐳.
 
-> - **Technologies/Tools:** Kedro, MLOps, Scikit-learn (XGBoost, Random Forest, LightGBM), Jupyter Notebook, Makefile, venv, Python.
+> - **Technologies/Tools:** MLOps, Docker, API design, Machine Learning (XGBoost, Random Forest), Jupyter Notebook, Makefile, venv, Python.
 
 ## 🙌 Connect with Me:
 <p align="center">
@@ -71,4 +71,4 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **01/04/2024**. Regularly updated to reflect current work and interests.
+- README last updated on **03/04/2024**. Regularly updated to reflect current work and interests.
