@@ -40,9 +40,9 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 
 ### 1. Kedro Energy Forecasting Machine Learning Pipeline 🏯
 - **Repository:** [Kedro Energy Forecasting Machine Learning Pipeline](https://github.com/labrijisaad/Kedro-Energy-Forecasting-Machine-Learning-Pipeline/tree/main)
-> Description: A showcase of MLOps best practices using **Kedro** 🛠️, this repository shows the journey of **Machine Learning Models** from **development** to **deployment** 🚀, utilizing Docker 🐳. Featuring straightforward training, evaluation, and deployment of models such as **XGBoost Regressor**, **LightGBM** 💡 and **Random Forest Regeressor** 🌳, it integrates built-in visualization 📊 and logging 📝 for effective monitoring. Dive into the world of modular and scalable data pipelines with Kedro 📚 [Kedro Documentation](https://docs.kedro.org/).
+> Description: A showcase of MLOps best practices using **Kedro** 🛠️, this repository shows the journey of **Machine Learning Models** from **development** to **deployment** 🚀, utilizing Docker 🐳. Featuring straightforward training, evaluation, and deployment of models such as **XGBoost Regressor**, **LightGBM** 💡 and **Random Forest Regeressor** 🌳, it integrates built-in visualization 📊 and logging 📝 for effective monitoring. Dive into the world of modular and scalable data pipelines with Kedro 📚 [Kedro Documentation](https://docs.kedro.org/). The integration of an automated CI pipeline 🔄 with **Github Actions** ensures code quality ✅ and reliability 🔒.
 
-> - **Technologies/Tools:** Docker, Kedro, MLOps, Machine Learning (XGBoost, Random Forest, LightGBM), Jupyter Notebook, Makefile, venv, Python.
+> - **Technologies/Tools:** Docker, Kedro, MLOps, CI/CD (Github Actions), Machine Learning (XGBoost, Random Forest, LightGBM), Jupyter Notebook, Makefile, venv, Python.
 
 ### 2. Repackaged GIT Clustering Algorithm 🧩
 - **Repository:** [GIT Clustering](https://github.com/labrijisaad/Git-Clustering)
@@ -71,4 +71,4 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **03/04/2024**. Regularly updated to reflect current work and interests.
+- README last updated on **05/04/2024**. Regularly updated to reflect current work and interests.
