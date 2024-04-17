@@ -36,21 +36,27 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 - **Data Scientist Intern** at `AIOX Labs`, Rabat, Morocco (2 months)
 - **Web/Backend Developer Intern** at `DXC Technologies`, Rabat, Morocco (2 months)
 
-## 🌟 Top Repositories
+## 🌟 Top `4` Repositories
 
-### 1. Kedro Energy Forecasting Machine Learning Pipeline 🏯
+### 1. `LLM RAG` - Streamlit RAG Language Model App 🤖
+- **Repository:** [LLM RAG](https://github.com/labrijisaad/LLM-RAG)
+> Description: A Streamlit application leveraging a **Retrieval-Augmented Generation (RAG)** Language Model (**LLM**) 🤖 with **FAISS indexing** 🗃️ to provide answers from uploaded markdown files. Users can upload documents 📝, input queries, and receive contextually relevant answers using Similarity Search 🔍, showcasing a practical application of NLP technologies 🤖. The project is also equipped with a **CI/CD pipeline** 🔄 ensuring **code quality & tests** and simple deployment, and it supports containerization with **Docker** 🐳 for easy distribution and deployment.
+
+> - **Technologies/Tools:** Streamlit, OpenAI API Models (LLMs, Embedding Models), FAISS, Python, Docker, CI/CD (Github Actions), Makefile, venv.
+
+### 2. `Kedro` Energy Forecasting `Machine Learning Pipeline` 🏯
 - **Repository:** [Kedro Energy Forecasting Machine Learning Pipeline](https://github.com/labrijisaad/Kedro-Energy-Forecasting-Machine-Learning-Pipeline/tree/main)
 > Description: A showcase of MLOps best practices using **Kedro** 🛠️, this repository shows the journey of **Machine Learning Models** from **development** to **deployment** 🚀, utilizing Docker 🐳. Featuring straightforward training, evaluation, and deployment of models such as **XGBoost Regressor**, **LightGBM** 💡 and **Random Forest Regeressor** 🌳, it integrates built-in visualization 📊 and logging 📝 for effective monitoring. Dive into the world of modular and scalable data pipelines with Kedro 📚 [Kedro Documentation](https://docs.kedro.org/). The integration of an automated CI pipeline 🔄 with **Github Actions** ensures code quality ✅ and reliability 🔒.
 
 > - **Technologies/Tools:** Docker, Kedro, MLOps, CI/CD (Github Actions), Machine Learning (XGBoost, Random Forest, LightGBM), Jupyter Notebook, Makefile, venv, Python.
 
-### 2. Repackaged GIT Clustering Algorithm 🧩
+### 3. Repackaged `GIT Clustering` Algorithm 🧩
 - **Repository:** [GIT Clustering](https://github.com/labrijisaad/Git-Clustering)
 > Description: An upgraded version of the GIT Clustering algorithm 🔄, informed by insights from an [arXiv paper](https://arxiv.org/abs/2110.01274) 📄, with easy deployment via [TestPyPI](https://test.pypi.org/project/git_cluster/) 📦. Includes benchmarking notebooks 📊 comparing it to state-of-the-art clustering algorithms 🔍.
 
 > - **Technologies/Tools:** Benchmarking, Poetry Packaging, PyPI Distributing, Machine Learning (K-means, DBSCAN, AgglomerativeClustering, Gaussian Mixture..), Jupyter Notebook, Makefile, venv, Python.
 
-### 3. Monthly & Daily Energy Forecasting Docker API ⚡
+### 4. Monthly & Daily Energy Forecasting `Docker API` ⚡
 - **Repository:** [Monthly & Daily Energy Forecasting Docker API](https://github.com/labrijisaad/Monthly-Daily-Energy-Forecasting-Docker-API)
 > Description: This repository 📦 houses an Energy Forecasting API ⚡ that uses Machine Learning to predict daily 📅 and monthly 🗓 energy consumption from historical data 📊. It's designed as a practical demonstration of a ML Engeineering/Data Science workflow, from initial analysis to a deployable API packaged with Docker 🐳.
 
@@ -71,4 +77,4 @@ Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based 
 </p>
 
 ## 🔄 Last Updated:
-- README last updated on **05/04/2024**. Regularly updated to reflect current work and interests.
+- README last updated on **17/04/2024**. Regularly updated to reflect current work and interests.
