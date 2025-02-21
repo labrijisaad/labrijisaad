@@ -14,17 +14,22 @@
   </a>
 </p>
 
-- 🌱 Hello, I'm **Saad**, a 23-year-old based in France, with a deep passion for creating projects in the realms of **Data** and **Artificial Intelligence**.
-- 🎓 I hold a **[Data Engineering degree](https://www.inpt.ac.ma/fr/data-engineer)** from INPT.
+- 🌱 Hello, I'm **Saad**, a 24-year-old based in France, with a deep passion for creating projects in the realms of **Data** and **Artificial Intelligence**.
+- 🎓 I hold a **[Data Engineering degree](https://www.inpt.ac.ma/fr/data-engineer)** from INPT and a **[Master's degree in Machine Learning and Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-mlsd/)** from Paris Cité University.
 - 💼 Currently working as a **Machine Learning Engineering** Apprentice at AXA - Direct Assurance.
-- 📚 I'm also preparing for a Master's degree in **[Machine Learning and Data Science](https://biomedicale.u-paris.fr/master-informatique/master-informatique-mlsd/)** at Paris Cité University.
+ 
+## 🏅 **Certifications** *(5x Azure Certified + 2x AWS Certified)*
 
-## 🏅 Certifications: (5x Azure Certified)
-- [![Azure Data Engineer](https://img.shields.io/badge/Azure-Data_Engineer_Associate-blue)](https://learn.microsoft.com/en-us/users/saadlabriji-3768/credentials/e3174c25e4cb921d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- [![Azure Data Scientist](https://img.shields.io/badge/Azure-Data_Scientist_Associate-blue)](https://learn.microsoft.com/en-us/users/saadlabriji-3768/credentials/f53b87af4329249d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data_Fundamentals-blue)](https://www.credly.com/badges/bbab8cc4-f184-4920-91f1-27eacef6f6cc)
-- [![Azure AI Fundamentals](https://img.shields.io/badge/Azure-AI_Fundamentals-blue)](https://www.credly.com/badges/445d6437-d174-43e1-85c1-5078c05e73ca)
-- [![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-blue)](https://www.credly.com/badges/b4f46e07-0661-4617-b27b-e2d9c762da17)
+### 🔷 **Microsoft Azure Certifications**
+- [![Azure Data Engineer](https://img.shields.io/badge/Azure-Data_Engineer_Associate-blue)](https://learn.microsoft.com/en-us/users/saadlabriji-3768/credentials/e3174c25e4cb921d?ref=https%3A%2F%2Fwww.linkedin.com%2F) **Azure Data Engineer Associate**
+- [![Azure Data Scientist](https://img.shields.io/badge/Azure-Data_Scientist_Associate-blue)](https://learn.microsoft.com/en-us/users/saadlabriji-3768/credentials/f53b87af4329249d?ref=https%3A%2F%2Fwww.linkedin.com%2F) **Azure Data Scientist Associate**
+- [![Azure Data Fundamentals](https://img.shields.io/badge/Azure-Data_Fundamentals-blue)](https://www.credly.com/badges/bbab8cc4-f184-4920-91f1-27eacef6f6cc) **Azure Data Fundamentals**
+- [![Azure AI Fundamentals](https://img.shields.io/badge/Azure-AI_Fundamentals-blue)](https://www.credly.com/badges/445d6437-d174-43e1-85c1-5078c05e73ca) **Azure AI Fundamentals**
+- [![Azure Fundamentals](https://img.shields.io/badge/Azure-Fundamentals-blue)](https://www.credly.com/badges/b4f46e07-0661-4617-b27b-e2d9c762da17) **Azure Fundamentals**
+
+### 🟧 **Amazon Web Services (AWS) Certifications**
+- [![AWS Certified Machine Learning Engineer](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-orange)](https://www.credly.com/badges/5169d988-099a-448f-ab3d-3b00202fb583/linked_in_profile) **AWS Certified Machine Learning Engineer – Associate**
+- [![AWS Certified AI Practitioner Early Adopter](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-orange)](https://www.credly.com/badges/88880cfb-e398-4a89-bf75-031d4b814a2d/linked_in_profile) **AWS Certified AI Practitioner – Early Adopter**
 
 ## 📚 Contributions:
 Contributed to repackaging and updating the GIT Clustering algorithm 🔄 based on insights from an [arXiv paper](https://arxiv.org/abs/2110.01274), with implementation available in the [GitHub repository](https://github.com/labrijisaad/Git-Clustering) 📂 and distribution through the [TestPyPI Package](https://test.pypi.org/project/git_cluster/) 📦.
